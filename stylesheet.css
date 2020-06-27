@@ -9,18 +9,32 @@
 .imagenes{
     text-align: center;
     display: inline;
-    text-align: center;
     padding-bottom: 50%;
-    margin-right: 10px;
+    margin-right: 8px;
     font-family: arial,sans-serif;
     font-size: small;
+}
+.imagenes1{
+    text-decoration:none;
+    color: black;
+}
+.imagenes1:hover{
+    text-decoration:underline;
 }
 .gmail{
     text-align: center;
     display: inline;
-    margin-right: 10px;
+    margin-right: 5px;
     font-family: arial,sans-serif;
     font-size: small;
+    color: black;
+}
+.gmail1{
+    text-decoration:none;
+    color: black;
+}
+.gmail1:hover{
+    text-decoration:underline;
 }
 .imagen{
    position: absolute;
@@ -50,13 +64,14 @@ top: 8px
     margin-bottom: 160px;
 }
 .buscador { 
-    border-radius: 10px;
+    border-radius: 15px;
     margin-top: 20px;
     margin-left: 15px; 
     border-width: 0.1px;
     border-color: gray;
     box-shadow: none;
     outline: none; 
+    block-size: 30px;
 }
 .botones{
   display: inline;
@@ -93,7 +108,66 @@ margin-top: -20px;
 .botoningles:hover {
     text-decoration:underline;
     
-
-
+}
+.footer11{
+    margin-bottom: 5px;
+    margin-top: 350px;
+}
+.footer1{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: left;
+    margin-right: 60px;
+    position: relative;
+    margin-bottom: 5px;
+}
+.advertising{
+    display: inline;
+    font-family: arial,sans-serif;
+    font-size: small;
+}
+.business{
+    display: inline;
+    font-family: arial,sans-serif;
+    font-size: small;
+}
+.about{
+    display: inline;
+    font-family: arial,sans-serif;
+    font-size: small;
+}
+.how{
+    display: inline;
+    font-family: arial,sans-serif;
+    font-size: small;
+}
+.div2{
+    align-content: right;
+    font-family: arial,sans-serif;
+    font-size: small;
+}
+.footer2{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: right;
+    margin-top: -25px;
+}
+.privacy{
+    display: inline;
+    font-family: arial,sans-serif;
+    font-size: small;
+   
+}
+.terms{
+    display: inline;
+    font-family: arial,sans-serif;
+    font-size: small;
+}
+.settings{
+    display: inline;
+    font-family: arial,sans-serif;
+    font-size: small;
 }
     
